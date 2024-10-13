@@ -41,7 +41,7 @@
 **audio_length**: 设置生成的音频长度，单位是秒，最高可以生成47秒的音频。<br>
 **save_path**: 设置保存音频路径，比如：`C:\Users\Desktop\`，如果为空，则默认保存在`ComfyUI\output\stable-audio-open-1.0`里面。<br>
 **load_local_model**: 加载本地模型，默认值是False。<br>
-**local_model_path**: 加载本地模型的时候需要把load_local_model设置为True，并把local_model_path设置为本地模型所在路径，例如：J:\stable_audio_open<br/>，如下所示：
+**local_model_path**: 加载本地模型的时候需要把load_local_model设置为True，并把local_model_path设置为本地模型所在路径，例如：J:\stable_audio_open，如下所示：
 
 ![](./assets/2.png)
 
