@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-stableaudioopen"
+description = "The implementation of the audio generation model stable-audio-open in ComfyUI enables ComfyUI to achieve text-to-audio functionality."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["stable-audio-tools"]
+
+[project.urls]
+Repository = "https://github.com/MoonHugo/ComfyUI-StableAudioOpen"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-StableAudioOpen"
+Icon = ""
